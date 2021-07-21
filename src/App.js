@@ -46,7 +46,7 @@ const App = () => {
         fetchCart();
     }, []);
 
-    console.log(cart);
+    //console.log(cart);
 
     return (
         <Router>
